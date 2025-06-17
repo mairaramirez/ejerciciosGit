@@ -1,4 +1,4 @@
-/* console.log("Ejercicio B")
+console.log("Ejercicio B")
 
 var emoji=" 🐈";
 var emoji2=" 🐾"; 
@@ -8,4 +8,4 @@ var patitas= emoji2.repeat(cantidadDePasos);
 
 for (var i = 1; i <= cantidadDeGatos; i++) {    
     console.log("Gato #" + i + emoji + patitas)    
-} */
+}

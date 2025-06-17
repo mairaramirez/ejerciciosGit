@@ -1,4 +1,4 @@
-/* console.log("Ejercicio A")
+console.log("Ejercicio A")
 
 var emoji=" 😹"
 var emoji2=" 😺"
@@ -19,4 +19,4 @@ while (i <= cantidadDeGatos) {
     }
     console.log("Gato #"+ i + cara);
     i++;
-} */
+}
